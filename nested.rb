@@ -15,7 +15,7 @@ def hopper
           :languages => ["C"]
         }
      }
-     p :known_for
+     :grace_hopper
 end
 
 def alan_kay_is_known_for
